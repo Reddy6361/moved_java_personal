@@ -9,6 +9,8 @@
  * 5) var can have a variable name as a var itslf as it is atype not an data type.
  * 
  * 6) "-------"-------"
+ * 
+ * 7) even when we write any keyword and its name is String and if we print output also it will not give error.
  * */
 
 /**************************************/
@@ -67,6 +69,15 @@
  * psvm(){
  * var String = 10;
  * sop(String)
+ * }
+ * }
+ * */
+
+/*7)
+ * class Ex3{
+ * psvm(){
+ * int String = 30;
+ * sop(String); //no error it will print special case
  * }
  * }
  * */

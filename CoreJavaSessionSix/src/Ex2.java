@@ -1,4 +1,4 @@
-// long: when we exceed the integer range we terminate with l or else l as suffix is not needed
+//long: when we exceed the integer range we terminate with l or else l as suffix is not needed
 //float: terminated with f
 //char: should always be stored in ''.
 
