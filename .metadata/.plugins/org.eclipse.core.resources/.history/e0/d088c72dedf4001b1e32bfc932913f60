@@ -1,0 +1,19 @@
+
+public class Ex6 {
+	static int age = 30;//static variable so that it can be access anywhere in the program. It is similar to Global Variable.
+
+	public static void main(String[] args) {//main method
+		System.out.println(age);
+		Ex6.test();//calling static method.
+	}
+
+	public static void test() {//static method
+		System.out.println(age);
+		Ex6 ex = new Ex6();
+		ex.test1();//calling non static method.
+	}
+
+	public void test1() {//non static method.
+		System.out.println(age);// static members can be access anywhere.
+	}
+}

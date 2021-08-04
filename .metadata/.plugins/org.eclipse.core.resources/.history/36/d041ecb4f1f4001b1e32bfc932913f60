@@ -1,0 +1,8 @@
+/*Conventions:
+ * 1) Blue color variable-> non static (non-italic)
+ * 2) Blue color variable->     static (    italic)
+ * 3) Brown color vaiable-> local Variable.
+*/
+public class Ex8 {
+
+}

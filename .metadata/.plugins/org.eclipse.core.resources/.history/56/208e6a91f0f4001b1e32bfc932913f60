@@ -1,0 +1,11 @@
+// refer Ex6 for theory.
+public class Ex9 {
+	static int age ;//Integer DT
+	static float weight;//float DT
+	static String name;//String Data Type
+	public static void main(String[] args) {
+		System.out.println(Ex9.age);
+		System.out.println(Ex9.weight);
+		System.out.println(Ex9.name);
+	}
+}
