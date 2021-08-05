@@ -6,9 +6,9 @@
  * 5) We can write return in static method too.
  * **************************************
  * B) return value:
- * 1)cannot be used in void methods.
+ * 1) cannot be used in void methods.
  * 2) returns control and value to the calling statement.
- * 3) in not a void method its mandatory to use [return value]
+ * 3) if not a void method its mandatory to use [return value]
  * */
 public class Ex6 {// A
 	public static void main(String[] args) {

@@ -1,6 +1,8 @@
-/* void :1)If a method is void then it means it cannot return any value hence the below program throws error.
+/* void :1)If a method is void then it means it cannot return any value
+ *  hence the below program throws error.
  * 2) we cannot anything after return keyword.
- * 3) we cannot write anything side to return keyword in void method , we can just put return keyword terminated with semicolon.
+ * 3) we cannot write anything side to return keyword in void method , 
+ * we can just put return keyword terminated with semicolon.
  * 4) we cannot just write return keyword without any value next to it in non void method.
  * */
 public class Ex3 {

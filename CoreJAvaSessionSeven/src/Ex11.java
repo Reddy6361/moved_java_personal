@@ -1,6 +1,6 @@
 // continuation of Ex10
 
-// Note: method name and class name can be same, as shown below.
+// Note: method name and class name can be same and wont give error until it has same arguments if so it will give error, as shown below.
 public class Ex11 {
 	void Ex11() {// method not constructor.
 		System.out.println(100);
