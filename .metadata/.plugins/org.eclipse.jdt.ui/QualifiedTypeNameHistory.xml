@@ -28,4 +28,5 @@
     <fullyQualifiedTypeName name="p1.A"/>
     <fullyQualifiedTypeName name="sun.applet.Main"/>
     <fullyQualifiedTypeName name="sun.security.tools.keytool.Main"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.IntegerSyntax"/>
 </qualifiedTypeNameHistroy>
