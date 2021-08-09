@@ -29,4 +29,7 @@
     <fullyQualifiedTypeName name="sun.applet.Main"/>
     <fullyQualifiedTypeName name="sun.security.tools.keytool.Main"/>
     <fullyQualifiedTypeName name="javax.print.attribute.IntegerSyntax"/>
+    <fullyQualifiedTypeName name="p1.main"/>
+    <fullyQualifiedTypeName name="p2.Ex1p2"/>
+    <fullyQualifiedTypeName name="p3.p4.p5.A"/>
 </qualifiedTypeNameHistroy>
