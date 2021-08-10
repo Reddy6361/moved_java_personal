@@ -32,4 +32,12 @@
     <fullyQualifiedTypeName name="p1.main"/>
     <fullyQualifiedTypeName name="p2.Ex1p2"/>
     <fullyQualifiedTypeName name="p3.p4.p5.A"/>
+    <fullyQualifiedTypeName name="p3.A"/>
+    <fullyQualifiedTypeName name="inheritance.Ex1_continuation"/>
+    <fullyQualifiedTypeName name="inheritance.Ex2_continuation"/>
+    <fullyQualifiedTypeName name="Ex4_2"/>
+    <fullyQualifiedTypeName name="polymorphism.Ex1_1"/>
+    <fullyQualifiedTypeName name="polymorphism.Ex2_2"/>
+    <fullyQualifiedTypeName name="inheritance.Ex6"/>
+    <fullyQualifiedTypeName name="inheritance_1.Ex6_1"/>
 </qualifiedTypeNameHistroy>
