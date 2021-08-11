@@ -1,8 +1,8 @@
 package polymorphism;
 
-/*overloading happens here the same method from class Ex2 is getting logic modified.*/
+/*overriding happens here the same method from class Ex2 is getting logic modified.*/
 public class Ex2_2 extends Ex2 {
-	public void test() {// overloading happens here the same method from class Ex2 is getting logic
+	public void test() {// overriding happens here the same method from class Ex2 is getting logic
 						// modified.
 		System.out.println(500);
 	}

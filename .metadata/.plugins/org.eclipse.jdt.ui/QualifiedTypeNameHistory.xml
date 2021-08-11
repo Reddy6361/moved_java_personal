@@ -40,4 +40,14 @@
     <fullyQualifiedTypeName name="polymorphism.Ex2_2"/>
     <fullyQualifiedTypeName name="inheritance.Ex6"/>
     <fullyQualifiedTypeName name="inheritance_1.Ex6_1"/>
+    <fullyQualifiedTypeName name="p1.Ex1_1"/>
+    <fullyQualifiedTypeName name="p1.Ex2_1"/>
+    <fullyQualifiedTypeName name="p1.Ex6"/>
+    <fullyQualifiedTypeName name="p1.GoldAccount"/>
+    <fullyQualifiedTypeName name="p1.PlatinumAccount"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="iib.Ex1"/>
+    <fullyQualifiedTypeName name="iib.Ex8"/>
+    <fullyQualifiedTypeName name="iib.Ex9"/>
+    <fullyQualifiedTypeName name="sib.Ex5"/>
 </qualifiedTypeNameHistroy>
