@@ -50,4 +50,12 @@
     <fullyQualifiedTypeName name="iib.Ex8"/>
     <fullyQualifiedTypeName name="iib.Ex9"/>
     <fullyQualifiedTypeName name="sib.Ex5"/>
+    <fullyQualifiedTypeName name="p1.Ex3"/>
+    <fullyQualifiedTypeName name="p3.Private_4"/>
+    <fullyQualifiedTypeName name="p2.Private_1"/>
+    <fullyQualifiedTypeName name="p3.Protected_5"/>
+    <fullyQualifiedTypeName name="p2.Protected_1"/>
+    <fullyQualifiedTypeName name="p2.Default_1"/>
+    <fullyQualifiedTypeName name="p2.Private_Constructor_1"/>
+    <fullyQualifiedTypeName name="p2.Public_constructor_1"/>
 </qualifiedTypeNameHistroy>
