@@ -3,7 +3,7 @@ package p1;
 public class PlatinumAccount extends GoldAccount {
 	@Override // checks weather method is going to override,
 	// so that typo is avoided
-	public void chqBooks() {// overriden method
+	public void chqBooks() {// Overridden method
 		System.out.println("unlimitted"); // overrideen and logic is been alterd.
 	}
 

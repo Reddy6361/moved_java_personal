@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.yoga.reddy.B"/>
-    <fullyQualifiedTypeName name="com.yoga.reddy.C"/>
-    <fullyQualifiedTypeName name="com.yoga.reddy.D"/>
     <fullyQualifiedTypeName name="com.yoga.reddy.F"/>
     <fullyQualifiedTypeName name="com.yoga.reddy.A"/>
     <fullyQualifiedTypeName name="com.yoga.reddy.G"/>
@@ -58,4 +55,9 @@
     <fullyQualifiedTypeName name="p2.Default_1"/>
     <fullyQualifiedTypeName name="p2.Private_Constructor_1"/>
     <fullyQualifiedTypeName name="p2.Public_constructor_1"/>
+    <fullyQualifiedTypeName name="p1.Ex4"/>
+    <fullyQualifiedTypeName name="p1.Ex5"/>
+    <fullyQualifiedTypeName name="p1.Ex1"/>
+    <fullyQualifiedTypeName name="p1.Ex7"/>
+    <fullyQualifiedTypeName name="p1.Ex9"/>
 </qualifiedTypeNameHistroy>
