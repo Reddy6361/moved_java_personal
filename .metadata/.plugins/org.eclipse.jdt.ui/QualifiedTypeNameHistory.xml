@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javaExample.A"/>
-    <fullyQualifiedTypeName name="javaExample.G"/>
-    <fullyQualifiedTypeName name="sun.java2d.loops.ScaledBlit"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javaExample.ReaderUserInputChallenge"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
@@ -48,9 +45,7 @@
     <fullyQualifiedTypeName name="p1.Ex7"/>
     <fullyQualifiedTypeName name="p1.Ex9"/>
     <fullyQualifiedTypeName name="p1.Ex10_1"/>
-    <fullyQualifiedTypeName name="p1.Ex3"/>
     <fullyQualifiedTypeName name="p1.Ex1_1"/>
-    <fullyQualifiedTypeName name="p1.Ex5_1"/>
     <fullyQualifiedTypeName name="p1.Ex6_1"/>
     <fullyQualifiedTypeName name="p1.Ex7_1"/>
     <fullyQualifiedTypeName name="p1.Ex12_1"/>
@@ -60,4 +55,9 @@
     <fullyQualifiedTypeName name="p1.Ex5_2"/>
     <fullyQualifiedTypeName name="p1.Ex9_1"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="p1.Ex3"/>
+    <fullyQualifiedTypeName name="p1.Ex3_1"/>
+    <fullyQualifiedTypeName name="p1.Ex4_1"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="p1.Ex5_1"/>
 </qualifiedTypeNameHistroy>
