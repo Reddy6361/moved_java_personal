@@ -24,7 +24,6 @@
     <fullyQualifiedTypeName name="polymorphism.Ex2_2"/>
     <fullyQualifiedTypeName name="inheritance.Ex6"/>
     <fullyQualifiedTypeName name="inheritance_1.Ex6_1"/>
-    <fullyQualifiedTypeName name="p1.Ex2_1"/>
     <fullyQualifiedTypeName name="p1.Ex6"/>
     <fullyQualifiedTypeName name="p1.GoldAccount"/>
     <fullyQualifiedTypeName name="p1.PlatinumAccount"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="p1.Ex4_1"/>
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
     <fullyQualifiedTypeName name="p1.Ex5_1"/>
+    <fullyQualifiedTypeName name="p1.Ex2_1"/>
 </qualifiedTypeNameHistroy>
